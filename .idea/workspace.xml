@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f090046b-81e0-4c77-9d99-f0b1d1057d6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_DescriptiveStatistics/DS1_RelatedCOV_TotalSents.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_DescriptiveStatistics/DS1_RelatedCOV_TotalSents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_DescriptiveStatistics/statistics_devidedDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_DescriptiveStatistics/statistics_devidedDS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after 2020_byRelease_DSApr10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after 2020_byRelease_DSApr10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DS1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DS1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DSAp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DSAp3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/by2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/by2020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/release_NEWonly_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/release_NEWonly_DSApr17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/COVID19_docs_filtered/BodyDoc_Filtered/COVID_related_body_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/COVID19_docs_filtered/BodyDoc_Filtered/COVID_related_body_DSApr17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_DSApr17_before2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_DSApr17_before2020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_Yake_Whole_DS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_Yake_Whole_DS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_extr_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_extr_DSApr17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/YAKE_onDoc/DS1_NewOnly.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/YAKE_onDoc/DS1_NewOnly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/BERN/DS1/BERN_COVID_DS1_1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/BERN/DS1/BERN_COVID_DS1_1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/MED7/Med7_DSApr17-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/MED7/Med7_DSApr17-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/DTM_after2020_timeSlice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/DTM_after2020_timeSlice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/LDAgensim_wholeDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/LDAgensim_wholeDS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Collaboration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Collaboration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Institutions_Apr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Institutions_Apr17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Publication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Publication.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="COVID-19" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zu289w6fa8tlRFqZTcUWLpywZc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\COVID-19\Datasets_Reformatted_toCSV\DS_Apr17" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\COVID-19\Deep_Content_Analysis\Keyword_extraction" />
+      <recent name="E:\PycharmProjects\COVID-19\Deep_Content_Analysis\COVID19_docs_filtered\Sents_splited" />
+      <recent name="E:\PycharmProjects\COVID-19\Deep_Content_Analysis\COVID19_docs_filtered\BodyDoc_Filtered" />
+      <recent name="E:\PycharmProjects\COVID-19\Datasets_Reformatted_toCSV\DS1" />
+      <recent name="C:\Users\ngoch\PycharmProjects\COVID-19\Deep_Content_Analysis\COVID19_docs_filtered" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Keyword_Yake_Whole_DS">
+    <configuration name="DTM_after2020_timeSlice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/DTM_after2020_timeSlice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Des_Ana_Institutions_Apr17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Institutions_Apr17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Des_Ana_Publication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Publication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Keyword_DSApr17_before2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_DSApr17_before2020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Keyword_Yake_Whole_DS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_Yake_Whole_DS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Keyword_Yake_Whole_DS" />
+        <item itemvalue="Python.DTM_after2020_timeSlice" />
+        <item itemvalue="Python.Des_Ana_Institutions_Apr17" />
+        <item itemvalue="Python.Des_Ana_Publication" />
+        <item itemvalue="Python.Keyword_DSApr17_before2020" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f090046b-81e0-4c77-9d99-f0b1d1057d6c" name="Default Changelist" comment="" />
+      <created>1585674496256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585674496256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Inspections" timestamp="1586544163560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1586544163560" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585674717640">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585674717640" />
+    <state x="411" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586396447770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1586396447770" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1586410388372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1586410388372" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586543796718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586543796718" />
+    <state width="1281" height="122" key="GridCell.Tab.0.bottom" timestamp="1587937819574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587937819574" />
+    <state width="1281" height="122" key="GridCell.Tab.0.center" timestamp="1587937819571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587937819571" />
+    <state width="1281" height="122" key="GridCell.Tab.0.left" timestamp="1587937819571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587937819571" />
+    <state width="1281" height="122" key="GridCell.Tab.0.right" timestamp="1587937819573">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587937819573" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1587660786829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587660786829" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586980112931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586980112931" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub4.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

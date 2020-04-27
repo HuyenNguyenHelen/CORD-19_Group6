@@ -1,0 +1,5 @@
+import sdf
+import numpy as np
+t = np.linspace(0, 10, 51)
+v = np.sin(t)
+ds_v2 = sdf.load("E:\Helen\FinalProject_INFO5731\All_DS_CORD19\DS_CORD19_April3\iviral_with_properties.sdf.gz", '/v', unit='V', scale_units=['s'])
