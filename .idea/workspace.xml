@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f090046b-81e0-4c77-9d99-f0b1d1057d6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DS_DescriptiveStatistics/DraftTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS_DescriptiveStatistics/DS1_RelatedCOV_TotalSents.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_DescriptiveStatistics/DS1_RelatedCOV_TotalSents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS_DescriptiveStatistics/statistics_devidedDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_DescriptiveStatistics/statistics_devidedDS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17/DS_Reformatted_CSV_Apr17_sub4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after 2020_byRelease_DSApr10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after 2020_byRelease_DSApr10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DS1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DS1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DSAp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/after2020_byRelease_DSAp3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/by2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/by2020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/release_NEWonly_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_classified_byYears/release_NEWonly_DSApr17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/COVID19_docs_filtered/BodyDoc_Filtered/COVID_related_body_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/COVID19_docs_filtered/BodyDoc_Filtered/COVID_related_body_DSApr17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_DSApr17_before2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_DSApr17_before2020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_Yake_Whole_DS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_Yake_Whole_DS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_extr_DSApr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/Keyword_extr_DSApr17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/YAKE_onDoc/DS1_NewOnly.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Keyword_extraction/YAKE_onDoc/DS1_NewOnly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/BERN/DS1/BERN_COVID_DS1_1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/BERN/DS1/BERN_COVID_DS1_1000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/MED7/Med7_DSApr17-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/NER_Extracting/Entities/MED7/Med7_DSApr17-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/DTM_after2020_timeSlice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/DTM_after2020_timeSlice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/LDAgensim_wholeDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Content_Analysis/Topic_modeling/LDAgensim_wholeDS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Collaboration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Collaboration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Institutions_Apr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Institutions_Apr17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Publication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Descriptive_Analysis/DS_Apr17/Des_Ana_Publication.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Datasets_Reformatted_toCSV/DS_Apr17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
